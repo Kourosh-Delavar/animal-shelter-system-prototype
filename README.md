@@ -1,10 +1,6 @@
-# Requirements Engineering SE Backlog
-
-## Getting started
-
 # Animal Shelter System Prototype
 
-This is a **prototype management system** developed as part of a *University Requirements Engineering* project for the *Animal Shelter Foundation “Second Chance”*. It provides a desktop‑based environment to manage and organize animal shelter data through an intuitive graphical interface. ([GitHub][1])
+This is a **prototype management system** developed as part of a *University Requirements Engineering* project for the *Animal Shelter Foundation “Second Chance”*. It provides a desktop‑based environment to manage and organize animal shelter data through an intuitive graphical interface. 
 
 The user interface is built using **Java Swing**, and the application uses **SQLite** as its local database for data storage and retrieval.
 
@@ -33,7 +29,7 @@ The user interface is built using **Java Swing**, and the application uses **SQL
 
 ## Notes
 
-* This project was created as a **requirements prototype** and serves as a basis for further development. ([GitHub][1])
+* This project was created as a **requirements prototype** and serves as a basis for further development.
 * The UI is entirely designed with **Java Swing** for a responsive and clean desktop experience.
 * **SQLite** provides lightweight, file‑based storage that doesn’t require a separate database server.
 
